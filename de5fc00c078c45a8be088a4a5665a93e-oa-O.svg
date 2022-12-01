@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="982" height="125">
+ <!-- Created with Image Occlusion Enhanced -->
+ <g>
+  <title>Labels</title>
+ </g>
+ <g>
+  <title>Masks</title>
+  <text transform="matrix(1.3713726997375488,0,0,1.1950119733810425,-3.620883822441101,-4.655910864472389) " xml:space="preserve" text-anchor="middle" font-family="'Arial', 'Helvetica LT Std', Arial, sans-serif" font-size="24" id="de5fc00c078c45a8be088a4a5665a93e-oa-1" y="45.44526" x="29.11114" stroke-width="0" fill="#000000">das</text>
+  <rect id="de5fc00c078c45a8be088a4a5665a93e-oa-2" height="44.44445" width="64.05229" y="14.07271" x="8.1961" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="de5fc00c078c45a8be088a4a5665a93e-oa-3" height="38.56209" width="258.16994" y="78.7786" x="91.20264" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="de5fc00c078c45a8be088a4a5665a93e-oa-4" height="107.84314" width="313.0719" y="8.19036" x="90.54905" stroke="#2D2D2D" fill="#FFEBA2"/>
+  <rect id="de5fc00c078c45a8be088a4a5665a93e-oa-5" height="101.30719" width="336.60132" y="12.11193" x="631.72553" stroke="#2D2D2D" fill="#FFEBA2"/>
+ </g>
+</svg>
